@@ -1,5 +1,9 @@
 # Dinossauro Evolutivo com Algoritmo Genético
 
+## Equipe:
+- Giulia Franca
+- Rafael Miguez
+
 ## Visão Geral
 Este projeto tem como objetivo desenvolver um dinossauro evolutivo baseado no jogo do dinossauro do Google Chrome, utilizando algoritmos genéticos para maximizar a longevidade do dinossauro durante o jogo. O código foi implementado com a biblioteca Pygame e a MultiDinoGame, que permite múltiplos dinossauros jogarem simultaneamente. Este README detalha os algoritmos de seleção, mutação, crossover, e o comportamento geral do código.
 
