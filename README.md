@@ -8,6 +8,8 @@ Este projeto tem como objetivo desenvolver um dinossauro evolutivo baseado no jo
 ### Algoritmo Escolhido: Seleção por Torneio
 A seleção por torneio foi escolhida para este projeto. Nesse método, um grupo de indivíduos é selecionado aleatoriamente da população, e o melhor indivíduo do grupo é escolhido para reprodução. O torneio é repetido várias vezes até selecionar os pais necessários.
 
+![Dino GIF](./assets/dinozinho.gif)
+
 **Por que foi escolhido?**
 - Simples de implementar e eficiente, especialmente em populações pequenas.
 - Evita a seleção de indivíduos com fitness muito baixo, permitindo uma melhor pressão seletiva.
@@ -58,3 +60,9 @@ O algoritmo genético utilizado neste projeto mostrou-se eficiente para melhorar
 **Limitações**
 - Por ser baseado em uma representação binária dos cromossomos, algumas nuances de comportamento podem ser perdidas, e uma abordagem híbrida com uma rede neural foi considerada como próxima etapa, mas como não foi pedido dentro do escopo da atividade, não foi desenvolvido.
 
+## Melhor Dinossauro
+
+<video width="400" controls>
+  <source src="./assets/dino.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
