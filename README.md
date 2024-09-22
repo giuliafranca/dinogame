@@ -63,4 +63,5 @@ O algoritmo genético utilizado neste projeto mostrou-se eficiente para melhorar
 ## Melhor Dinossauro
 
 ![Dino GIF](./assets/dino.gif)
+
 Score: 536.
