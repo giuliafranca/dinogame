@@ -62,7 +62,4 @@ O algoritmo genético utilizado neste projeto mostrou-se eficiente para melhorar
 
 ## Melhor Dinossauro
 
-<video width="400" controls>
-  <source src="./assets/dino.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Dino GIF](./assets/dino.gif)
